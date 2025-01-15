@@ -32,27 +32,6 @@ Jira Pipelines, Bitbucket, GitHub
 
 ---
 
-## My Highlight Projects
-### 🌐 Web Projects
-- **POS System**  
-  [POS Eden Hotel](https://posedenhotel.caliburgerlb.com/)  
-  Designed and implemented a robust Point-of-Sale system for seamless hotel operations.
-  
-- **Caliburger Sale System**  
-  [Caliburger](https://caliburgerlb.com)  
-  Delivered an efficient and scalable sales platform for a global restaurant franchise.
-
-### 🔗 Blockchain Projects
-- **GateNet**  
-  [GateNet](https://gatenet.io/)  
-  Developed secure blockchain solutions for financial operations and integrations.
-  
-- **GymNetwork**  
-  [GymNetwork](https://gymnetwork.io/)  
-  Engineered a decentralized platform for staking and yield farming with high performance.
-
----
-
 ## Why Choose Me?
 - ✅ **Proven Expertise:** Over 6 years of experience in delivering high-quality, client-focused solutions.  
 - ✅ **Scalable Code:** Strong focus on writing maintainable, scalable, and efficient code for long-term success.  
