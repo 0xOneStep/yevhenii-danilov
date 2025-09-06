@@ -1,4 +1,4 @@
-# Yevhenii Danilov
+# 0xOneStep
 ## Full Stack Web & Blockchain Engineer 👋
 <p>
 Passionate, collaborative, and highly skilled Full Stack Web Developer with 6+ years of professional experience in dynamic and deadline-driven work environments. 
